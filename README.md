@@ -1,6 +1,6 @@
 # Memories
-
-![Memories](https://snaps-app.netlify.app)
+## Live Site
+(https://snaps-app.netlify.app)
 
 
 
